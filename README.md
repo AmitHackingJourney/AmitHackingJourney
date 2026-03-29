@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Amit 👋
 
-<!--
-**AmitHackingJourney/AmitHackingJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Enthusiast | Ethical Hacker in the Making**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔐 Security researcher on an ethical hacking journey
+- ⚡ Intermediate level — exploring Web Hacking, Linux & Networking
+- 📍 Based in Lucknow, India
+- 🌱 Currently learning **Web Application Pentesting**
+- 🎯 Practicing on **TryHackMe / HackTheBox**
+
+---
+
+## Skills
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Web Hacking](https://img.shields.io/badge/Web%20Hacking-FF0000?style=flat&logo=owasp&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=flat&logo=cisco&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![AmitHackingJourney's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitHackingJourney&show_icons=true&theme=dark)
+
+---
+
+*"The quieter you become, the more you are able to hear." — Kali Linux*
